@@ -11,6 +11,8 @@ This is a plugin that you show your travel map
 
 ![Demo](/demo/web.gif)
 
+Also you can visit [this web deb](https://jekyller.github.io/TravelMap/) or [my original web](http://www.junlulocky.com/travelmap/)
+
 ### Add Travel Map in your web 
 
 - Copy /_data/country_names.yml to your Jekyll '_data' folder;
