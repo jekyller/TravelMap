@@ -15,7 +15,7 @@ Also you can visit [this web deb](https://jekyller.github.io/TravelMap/) or [my 
 
 ### Add Travel Map in your web 
 
-- Copy /_data/country_names.yml to your Jekyll '_data' folder;
+- Copy '/_data/country_names.yml' to your Jekyll '_data' folder;
 
 - Change the country_name.yml file to your own experience, make the *visited* indicator to *true* if you have visited this country; *false* otherwise;
 
@@ -23,7 +23,7 @@ Also you can visit [this web deb](https://jekyller.github.io/TravelMap/) or [my 
 
 - Put **index.html** under the website route;
 
-- Change the *baseurl* to your Repo name.
+- Change the *baseurl* in *_config.yml*to your Repo name.
 
 
 
