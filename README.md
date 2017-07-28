@@ -9,7 +9,7 @@ This is a plugin that you show your travel map
 
 `Here is a demo`_ of `sample effect` 
 
-![Demo](/demo/web.gif)
+![Demo](/demo/demo.gif)
 
 Also you can visit [this web deb](https://jekyller.github.io/TravelMap/) or [my original web](http://www.junlulocky.com/travelmap/)
 
